@@ -1,1 +1,1 @@
-web: gunicorn Dairyproject.wsgi --log-file -
+web: gunicorn Dairyapp.wsgi --log-file -
